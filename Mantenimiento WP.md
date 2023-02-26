@@ -1,32 +1,43 @@
 ## Clientes
+
+## Mensual 
+
 bambinsa.com.ar
-doblei.com.ar
 dorado-travel.com
+martinrappallini.com
+pisadas-argentina.com
+premoldeadosbertone.com
+vibert.com.ar
+expedientepolitico.com.ar
+interiorcorrientes.com
+atrnoticias.com
+payenews.com
+urgentehoy.com
+periodismointernacional.com
+periodismofederal.com
+metasustentable.com
+zona22.com
+
+## Semestral
+
+## Anual
+
+| Cliente       | Dominio | Hosting | SSL | WP  | Mails |
+| ------------- | ------- | ------- | --- | --- | ----- |
+| doblei.com.ar |         |         |     |     |       |
+|           |         |         |     |     |       |
 guillermowhpei.com
 hugoalbertofranco.com
 hugofranco.com
 ideasquetransforman.org
 identidadrobada.com
-ionlogistica.com
-leadlogistica.com
-martinrappallini.com
-pisadas-argentina.com
-premoldeadosbertone.com
 ramirezmoyano.com
 recetaspop.com.ar
 splendidamujer.com.ar
 stadlberger.com.ar
-vibert.com.ar
-expedientepolitico.com.ar
-periodismointernacional.com
-periodismofederal.com
 samarklopezbello.com
-metasustentable.com
-zona22.com
 librosquemuerden.com
-interiorcorrientes.com
-atrnoticias.com
-payenews.com
-urgentehoy.com
+ionlogistica.com
+leadlogistica.com
+expodesarrollosustentable.com
 
-## Mensual
